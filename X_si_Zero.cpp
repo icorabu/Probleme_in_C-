@@ -1,3 +1,6 @@
+//desenarea unei table cu X si Zero
+//prgramul se poate modifica pentru mai multe linii si coloane(o tabla mai mare)...aici este o proba pentru 4x4
+//la sfarsit avem si o functie CePiesa() care ne pune sa alegem indicii unei casute si ne afiseaza ce este in acea casuta
 #include <stdio.h>
 #include <iostream>
 using namespace std;
